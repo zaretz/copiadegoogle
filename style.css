@@ -1,0 +1,42 @@
+body{
+    background-color: #71A9F7;
+    color: #2b3a67; 
+    font-family: 'Outfit', sans-serif;
+    font-size: medium;
+    text-align: left;
+
+}
+
+/*Comentario*/
+
+/*color de titulos*/
+h1, h2, p {color: #A72608;}
+h3{color: #2C4251;}
+
+/*Tamaño de imágenes*/ /*También se puede usar height*/
+.img1 {width: 800px;}
+.img2 {width: 281px;}
+
+h1, h2{text-align: center;}
+.h3a {text-align: center;}
+
+/*Borde de la imágen*/ /*Márgenes y sepáración de marcos de la imágen*/ 
+.img1 {border-style: double;
+    border-width: 10px; 
+    border-color: #A72608;
+    margin-top: 30px;
+    margin: 30px;
+    padding: 20px;}
+
+.img2 {border-style:solid;
+    border-width: 10px; 
+    border-color: #A72608;
+    margin-top: 30px;
+    margin: 30px;
+    padding: 20px}
+
+footer {background-color:#C6D8FF;}
+small, a {color: #A72608; padding: 10px;}
+
+
+
