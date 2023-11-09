@@ -26,4 +26,4 @@ Las tecnologías que utilicé, son:
 Aprender a utilizar las etiquetas estándar de HTML 5 y CSS3.
 
 ### Link a demo
-En el siguiente link puedes ar mi proyecto terminado: [Clon de Google](#)
+En el siguiente link puedes ar mi proyecto terminado: [Clon de Google](https://copiadegoogle-eta.vercel.app/)
